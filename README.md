@@ -12,3 +12,11 @@ Elementos do jogo: o jogo possui 5 atores sendo eles, o atleta, cone e passaro c
 Motivação: como joguei muito o jogo do dinossauro do chrome, quis simular ele de um jeito diferente.
 
 Funcionamento do Jogo: O jogo começa com o atleta posicionado no canto esquerdo da tela. Os jogadores clicam ou pressionam uma tecla para fazer o atleta pular, desviando de cone e passaros que se aproximam. Se o atleta colidir com um obstáculo 3 vezes, o jogo termina como derrota, se chegar a potuação maxima, é transmitido uma imagem de vitoria 
+
+Video do jogo abaixo:
+
+https://github.com/felipeunsonst/TrabalhoScratch/assets/161458493/4336b239-d0c3-4c42-a09d-5c1ab3f0c358
+
+
+
+
